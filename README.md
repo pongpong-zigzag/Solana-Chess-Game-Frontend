@@ -2,13 +2,10 @@
 
 Online Chess is an onchain chess game that is played on the Solana.
 
-## Contact
-
-If you have any question or need help, contact here: [Telegram](https://t.me/shiny0103) | [Twitter](https://x.com/0xTan1319)
 
 ## Related project
 
-- [Chess game Smart contract](https://github.com/0xTan1319/chess-smart-contract-solana.git)
+- [Chess game Smart contract](https://github.com/FrozenLedger-dev/solana-smart-contract-chess)
 
 ## How to Play
 
