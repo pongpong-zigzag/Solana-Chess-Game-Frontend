@@ -1,0 +1,7 @@
+.wrapper {
+  &[data-size='xxl'] {
+    & .input {
+      font-size: 42px;
+    }
+  }
+}

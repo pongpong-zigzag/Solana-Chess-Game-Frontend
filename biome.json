@@ -1,0 +1,15 @@
+{
+    "formatter": {
+        "enabled": true,
+        "indentStyle": "space",
+        "indentWidth": 4,
+        "ignore": [".next/**", "dist/**"],
+        "lineWidth": 120
+    },
+    "linter": {
+        "enabled": true
+    },
+    "organizeImports": {
+        "enabled": true
+    }
+}
